@@ -1,7 +1,7 @@
 package router
 
 import (
-	"github.com/herEmanuel/go-api/src/controllers"
+	"github.com/herEmanuel/go-api/controllers"
 
 	"github.com/gofiber/fiber/v2"
 )
